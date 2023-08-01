@@ -6,12 +6,11 @@ Java의 JFrame과 JLayer 라이브러리를 이용해 만들어본 연습작입�
 2. 그 게임의 Stage 1만 구현한 것이며, **완성된 게임이 아니므로 플레이 용으로는 적합하지 않습니다.**
 3. 디버깅이 온전치 않아 오류가 발생할 수 있습니다.
 
-~~~
 <table>
   <tr>
-    <th>Frontend<th>
-    <th>Backend<th>
-    <th>Logging & Monitoring<th>
+    <th>Frontend</th>
+    <th>Backend</th>
+    <th>Logging & Monitoring</th>
     <th>Others<th>
-  <tr>
-~~~
+  </tr>
+</table>
